@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\MovieReviewProject\\MovieReviewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9094EA6D-24A8-474B-8A18-965437F1AF31}|MovieReviewProject\\MovieReviewProject.csproj|d:\\github\\moviereviewproject\\moviereviewproject\\moviereviewproject\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9094EA6D-24A8-474B-8A18-965437F1AF31}|MovieReviewProject\\MovieReviewProject.csproj|solutionrelative:moviereviewproject\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9094EA6D-24A8-474B-8A18-965437F1AF31}|MovieReviewProject\\MovieReviewProject.csproj|d:\\github\\moviereviewproject\\moviereviewproject\\moviereviewproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9094EA6D-24A8-474B-8A18-965437F1AF31}|MovieReviewProject\\MovieReviewProject.csproj|solutionrelative:moviereviewproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\MovieReviewProject\\MovieReviewProject\\MovieReviewProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieReviewProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github\\MovieReviewProject\\MovieReviewProject\\MovieReviewProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieReviewProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T23:36:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\Github\\MovieReviewProject\\MovieReviewProject\\MovieReviewProject\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "MovieReviewProject\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Github\\MovieReviewProject\\MovieReviewProject\\MovieReviewProject\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "MovieReviewProject\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:20:49.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
